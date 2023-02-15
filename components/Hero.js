@@ -13,11 +13,11 @@ export default function Hero({ title }) {
                 <h1 className="text-4xl font-bold leading-snug text-gray-800">
                     {title ? title : 'Take Your Career to the Next Level!'}
                 </h1>
-                <p>
+                <p><b>
                     Ready to start creating YouTube videos while padding your
                     resume, building your brand, and learning a lot along the
                     way?
-                </p>
+                </b></p>
                 <a
                     href="https://learn.jamesqquick.com/developers-guide-to-starting-a-youtube-channel/buy"
                     rel="noopener noreferrer"
